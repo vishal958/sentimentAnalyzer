@@ -1,0 +1,41 @@
+.header {
+    background-color: gray;
+    padding: 26px 0 26px 0;
+    margin-bottom: 20px;
+}
+
+.title {
+    margin: auto;
+    font-size: 26px;
+    width: 90%;
+    font-weight: 400;
+    color: white;
+}
+
+textarea#review--text{
+    width: 80%;
+    height: 170px;
+    margin:auto;
+    border: 4px solid green;
+}
+
+button#submitBtn{
+    margin-top: 10px;
+}
+.predict-btn-wrap{
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+
+.predict-button {
+    width:60%;
+}
+
+.result__block{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+
