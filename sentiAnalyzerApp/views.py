@@ -2,7 +2,6 @@ from django.shortcuts import render
 import json
 from .apps import SentianalyzerappConfig
 from django.http import JsonResponse
-import pandas as pd
 import re
 from keras.preprocessing.sequence import pad_sequences
 from keras.preprocessing.text import Tokenizer
