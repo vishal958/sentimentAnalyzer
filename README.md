@@ -12,6 +12,7 @@
 
 ## Demo
 Link: [https://moviereviewanalyzer.herokuapp.com/](https://moviereviewanalyzer.herokuapp.com/)
+![alt text](https://github.com/vishal958/sentimentAnalyzer/blob/master/app.PNG)
 
 ## Overview
 This is a Django web app which predicts the sentiment for the given input.
